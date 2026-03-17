@@ -4,9 +4,7 @@
 </p>
 
 ## This is a super simple Todo App built using React.js and styled using Mantine UI.
-
-You can view a live demo of the project here:
-Or, you can watch this video demo
+DEMO:https://grok-le.github.io/ToDoApp
 
 ## 😃 Features:
 
